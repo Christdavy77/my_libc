@@ -22,4 +22,6 @@ char *my_strchr(const char *s, int c);
 
 char *my_strrchr(const char *s, int c);
 
+char *my_strstr(const char *haystack, const char *needle);
+
 #endif
