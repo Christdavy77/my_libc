@@ -20,4 +20,6 @@ int my_strncmp(const char *s1, const char *s2, size_t n);
 
 char *my_strchr(const char *s, int c);
 
+char *my_strrchr(const char *s, int c);
+
 #endif
